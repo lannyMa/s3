@@ -9,4 +9,4 @@ class A:
         return "触发: __repr__"
 
 a = A()
-print(a) 
+print(a)
